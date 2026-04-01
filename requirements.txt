@@ -1,0 +1,9 @@
+airsim==1.8.1
+torch==2.5.1
+torchvision==0.20.1
+opencv-python==4.13.0
+numpy==2.2.6
+pandas==2.3.3
+Pillow==12.1.1
+scikit-learn==1.7.2
+matplotlib==3.10.8
