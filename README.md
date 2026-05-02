@@ -1,3 +1,12 @@
+# 🧠 Autonomous Obstacle Avoidance
+
+![Status](https://img.shields.io/badge/Status-Maintained-brightgreen)
+![AI](https://img.shields.io/badge/AI-CNN%20%7C%20PyTorch-ee4c2c)
+![Simulator](https://img.shields.io/badge/Simulator-AirSim-orange)
+![CV](https://img.shields.io/badge/Computer%20Vision-OpenCV-blue)
+
+**Deep Learning-based flight control system enabling drones to navigate complex obstacle courses via real-time monocular depth estimation.**
+
 # ??? Autonomous Obstacle Avoidance for UAVs
 **End-to-End Deep Learning for Resilient Navigation**
 
